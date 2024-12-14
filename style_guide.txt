@@ -1,0 +1,128 @@
+# CSS Variables
+:root {
+  --white: #ffffff;
+  --main-color: #2947A9;
+  --secondary-color: #F9995D;
+  --title-color: #292E3D;
+  --text-color: #525B7A;
+  --alt-text-color: #C2C7D6;
+  --section-padding: 60px;
+  --h1-size: 72px;
+  --h2-size: 36px;
+  --h3-size: 20px;
+  --text-size: 20px;
+  --alt-text-size: 18px;
+}
+
+# Fonts
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+# Container Media Query
+.container {
+  padding: 0 15px;
+  margin: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+
+# Text
+
+TheBox
+
+Home
+About Us
+Projects
+Services
+Contact Us
+
+Building things is our mission.
+
+Our Reputation
+
+Best Services
+Nullam senectus porttitor in eget. Eget rutrum leo interdum.
+
+Best Teams
+Cursus semper tellus volutpat aliquet lacus. 
+
+Best Designs
+Ultricies at ipsum nunc, tristique nam lectus.
+
+About us
+For more than 30 years we have been delivering world-class construction and we’ve built many lasting relationships along the way.
+We’ve matured into an industry leader and trusted resource for those seeking quality, innovation and reliability when building in the U.S.
+More on Our History
+
+Services
+
+Construction
+Renovation
+Consultation
+Repair Services
+Architecture
+Electric
+
+84
+Happy Clients
+
+123
+Projects Completed
+
+37
+Awards Win
+
+30
+Years in Business
+
+30 Years Experience
+Our company has been the leading provided construction services to clients throughout the USA since 1988.
+Contact Us
+
+Free consultation with exceptional quality
+Just one call away: +84 1102 2703
+Get your consultation
+
+Projects
+All
+Commercial
+Residential
+Other
+
+Wildstone Infra Hotel
+2715 Ash Dr. San Jose, South Dakota
+
+Wish Stone Building
+2972 Westheimer Rd. Santa Ana, Illinois 
+
+Mr. Parkinston’s House
+3517 W. Gray St. Utica, Pennsylvania
+
+Oregano Height
+2464 Royal Ln. Mesa, New Jersey 
+
+What can us do for you?
+We are ready to work on a project of any complexity, whether it’s commercial or residential.
+
+Address:
+6391 Elgin St. Celina, Delaware 10299
+
+Phone:
++84 1102 2703
+
+Email:
+hello@thebox.com
+
+TheBox Company © 2022. All Rights Reserved
